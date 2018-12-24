@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleMemoApp</string>
+    <string name="mojiread_button_text">画像から文字読み込み</string>
+    <string name="new_button_text">新規作成</string>
+    <string name="camera_button_text">カメラ起動</string>
+    <string name="back_button_text">戻る</string>
+    <string name="text_memo_button">メモする</string>
+    <string name="tegaki_memo_button">手書きでメモする</string>
+    <string name="text_memo_hint">メモタイトル</string>
+    <string name="text_memo_content_hint">メモの内容</string>
+    <string name="register_button_text">メモを保存する</string>
+    <string name="back_button_text2">戻る</string>
+</resources>
